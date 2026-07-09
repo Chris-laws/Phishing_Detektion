@@ -1,2 +1,4 @@
 # List your project dependencies here
 pandas
+matplotlib
+transformers
