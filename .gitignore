@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local data artifacts
+data/raw/
+data/processed/*.csv
+data/processed/*.tmp
+data/processed/*.log
+
+# Local tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
